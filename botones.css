@@ -1,0 +1,49 @@
+button{
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+.gray{
+    color: gray;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: lightgreen;
+}
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: red;
+}   
+.purple{
+    background-color: purple;
+}
+button:hover{
+    background-color: blueviolet;
+    color:yellow
+}
+.fila-uno button{
+    border-radius: 10px;
+}
+#fila-uno{
+    border-radius: 10px;
+}
+.fila-uno button{
+    border-radius: 10px;
+    padding:15px;
+}
+.fila-dos button{
+    border-radius:25px;
+    padding:15px;
+}
+.fila-tres button{
+    padding:15px;
+}
+.fila-cuatro button{
+    padding:15px;
+    border-radius: 50%;
+}
