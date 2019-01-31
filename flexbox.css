@@ -1,0 +1,126 @@
+.body {
+    padding: 20px;
+}
+h1 {
+    font-size: 36px;
+    color: black;
+    font-family:  vag_rounded_bold,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-align: center;
+}
+h2 {
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-align: center;
+}
+h3 {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    text-align: center;
+    margin: 2%;
+    margin-top: 0%;
+    padding: 1%;
+}
+.main-container {
+    background-color: #fc0;
+    width: 100%;
+}
+.flex-container {
+    height: 30%;
+    width: 85%;
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    justify-content: center;
+    padding: 3%;
+}
+.flex-items {
+    display: flex;
+    background-color:white;
+    justify-content: space-around;
+    font-family: arial;    
+    font-size: 12px;
+    font-weight: 100px;
+    width: 7%;
+    height: 30%;
+    margin: 1%;
+    border-radius: 20px;
+    margin-bottom: 0%;
+    padding: 7px;
+}
+.ultimos-botones {
+    display: flex;
+    background-color:white;
+    justify-content: space-around;
+    font-family: arial;    
+    font-size: 12px;
+    font-weight: 100px;
+    width: 13%;
+    height: 20%;
+    margin: 1%;
+    margin-bottom: 0%;
+    border-radius: 20px;
+    padding: 7px;
+}
+.search {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: arial;    
+    font-size: 17px;
+    font-weight: 100px;
+    padding: 0%;
+}
+.zip-container {
+    background-color: white;
+    margin: 3%;
+    margin-top: 0%;
+    width: 50%;
+    height: 30%;
+    border-radius: 20px;
+    padding: 10px;
+}
+.search-button {
+    background-color: black;
+    width: 6%;
+    height: 40%;
+    color: white;
+    margin: 3%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.second-container {
+    display: flex;
+    background-color:white;
+    justify-content: space-around;
+    font-family: arial;    
+    font-size: 12px;
+    font-weight: 100px;
+    width: 7%;
+    height: 30%;
+    margin: 1%;
+    border-radius: 20px;
+    margin-bottom: 0%;
+    padding: 7px;
+   }
+   
+   display: flex;
+    flex-direction: row;
+    align-content: center;
+    background-color:green;
+    justify-content: space-around;
+    width: 70%;
+    height: 30%;
+    margin-left: 45px;
+    border-radius: 20px;
+    margin-bottom: 0%;
+    padding: 7px;
+    margin: 3%;
+    padding: 7px;
