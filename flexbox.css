@@ -106,21 +106,5 @@ h3 {
     width: 7%;
     height: 30%;
     margin: 1%;
-    border-radius: 20px;
-    margin-bottom: 0%;
     padding: 7px;
    }
-   
-   display: flex;
-    flex-direction: row;
-    align-content: center;
-    background-color:green;
-    justify-content: space-around;
-    width: 70%;
-    height: 30%;
-    margin-left: 45px;
-    border-radius: 20px;
-    margin-bottom: 0%;
-    padding: 7px;
-    margin: 3%;
-    padding: 7px;
